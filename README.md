@@ -1,3 +1,3 @@
-# habitat
+# praxisind
 
-Source code of Habitat Real Estate Investments website.
+Source code of Praxis website
