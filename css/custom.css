@@ -8,13 +8,13 @@ a:link,
 a:visited, 
 a:active {
   text-decoration: none;
-  color: #000;
+  color: rgb(94, 145, 187);
 }
 	  
 a:hover,
 a:focus {
-  text-decoration: underline;
-  color: #000;
+  text-decoration: none;
+  color: #222;
 }
 
 section[id] {
@@ -102,6 +102,16 @@ hr.subsection {
   );
 }
 
+#phonenum a:link, #phonenum a:visited, #phonenum a:active, #phonenum a:hover, #phonenum a:focus {
+  text-decoration: none;
+  color: #8B0000
+}
+
+#contact a:link, #contact a:visited, #contact a:active, #contact a:hover, #contact a:focus {
+    text-decoration: none;
+    color: #000
+  }
+	  
 
 .navbar-header {
     padding: 2px 0;
