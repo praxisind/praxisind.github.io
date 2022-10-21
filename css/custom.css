@@ -4,6 +4,10 @@ h1, h2, h3 {
     font-weight: bold;
 }
 
+p {
+    font-size: 21px;
+}
+
 a:link, 
 a:visited, 
 a:active {
@@ -31,9 +35,22 @@ section[id] img {
     font-size: 1.3em;
 }
 
+.small {
+    font-size: 14px;
+}
+
 .logo {
     height: 45px;
     margin-top: -7px; 
+}
+
+.list {
+    font-size: 21px;
+}
+
+.date {
+    color: #999;
+    font-weight: bold;
 }
 
 hr.section {
