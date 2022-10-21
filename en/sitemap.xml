@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://praxisindustrial.us/vciperu/</loc>
+    <lastmod>2022-10-20T16:01:50-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://praxisindustrial.us/es/vciperu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://praxisindustrial.us/vciperu/"
+                />
+  </url>
+  
+  <url>
     <loc>https://praxisindustrial.us/posts/vciper/</loc>
     <lastmod>2022-10-20T16:01:50-04:00</lastmod>
     <xhtml:link
@@ -15,11 +30,6 @@
                 hreflang="en"
                 href="https://praxisindustrial.us/posts/vciper/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://praxisindustrial.us/vciperu/</loc>
-    <lastmod>2022-10-20T16:01:50-04:00</lastmod>
   </url>
   
   <url>
