@@ -1,11 +1,15 @@
 /* General Styling */
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-weight: bold;
 }
 
-p {
+p, li {
     font-size: 21px;
+}
+
+.navbar li {
+    font-size: 14px;
 }
 
 a:link, 
@@ -49,7 +53,7 @@ section[id] img {
 }
 
 .date {
-    color: #999;
+    color: #E5E4E2;
     font-weight: bold;
 }
 

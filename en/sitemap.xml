@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://praxisindustrial.us/posts/transformer_oils/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://praxisindustrial.us/es/posts/aceite_transformador/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://praxisindustrial.us/posts/transformer_oils/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://praxisindustrial.us/posts/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://praxisindustrial.us/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://praxisindustrial.us/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://praxisindustrial.us/vciperu/</loc>
     <lastmod>2022-10-20T16:01:50-04:00</lastmod>
     <xhtml:link
@@ -29,21 +59,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://praxisindustrial.us/posts/vci/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://praxisindustrial.us/posts/</loc>
-    <lastmod>2022-10-20T16:01:50-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://praxisindustrial.us/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://praxisindustrial.us/posts/"
                 />
   </url>
   
