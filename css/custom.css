@@ -2,10 +2,12 @@
 
 h1, h2, h3, h4 {
     font-weight: bold;
+    padding-top: 0.8em;
 }
 
 p, li {
     font-size: 21px;
+    padding-top: 0.5em;
 }
 
 .navbar li {
